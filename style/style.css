@@ -1,0 +1,25 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(78, 67, 67)
+}
+
+.Header{
+    color:rgb(115, 158, 238)
+}
+
+.text{
+    color: white;
+}
+
+.Yellow{
+    color:yellow;
+}
+
+.Red{
+    color: red;
+}
